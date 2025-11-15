@@ -7,6 +7,8 @@
   
  ⠀⠀⠀ A proposta visa atender tanto iniciantes quanto pessoas mais experientes que desejam melhorar sua alimentação e rotina de exercícios. No futuro, o projeto poderá ser expandido com a integração de inteligência artificial, tornando a experiência ainda mais personalizada e eficiente.
 
+
+
 #
 ### 🌐 Front-end
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
